@@ -1,7 +1,21 @@
 # 3d_platformer
 Game development of 3D platformer
 
+# What's included with this project
+
+3D Platformer Game developed for the Software Development Course at Techtorium, 2023.
+
+Build file containing the playable game
+
 # Instructions
 Download the Data Folder from:
 https://file.io/btYQQwxaRLdi
-Extract it and to the Build folder, run the game.
+
+Extract it and move it into the Build folder
+
+Open 3D-Platformer.exe to open the game
+
+Use WASD or the keyboard arrows to play
+
+# Game Screenshot
+![image](https://user-images.githubusercontent.com/110004264/221439213-e819bba8-4391-441c-89c4-4c582c0f7405.png)
