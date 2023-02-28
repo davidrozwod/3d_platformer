@@ -14,7 +14,7 @@ Download Build zip from this repository
 Extract Build folder
 
 Download the Data Folder from:
-https://file.io/btYQQwxaRLdi
+https://file.io/pclpj5IdJ6Ag
 
 Extract it and move it into the Build folder
 
