@@ -13,12 +13,10 @@ Download Build zip from this repository
 
 Extract Build folder
 
-Extract it and move it into the Build folder
-
 Download the Data Folder from:
 https://file.io/btYQQwxaRLdi
 
-Move it into the build folder
+Extract it and move it into the Build folder
 
 Open 3D-Platformer.exe to open the game
 
