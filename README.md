@@ -8,10 +8,17 @@ Game development of 3D platformer
 Build file containing the playable game
 
 # Instructions
+
+Download Build zip from this repository
+
+Extract Build folder
+
+Extract it and move it into the Build folder
+
 Download the Data Folder from:
 https://file.io/btYQQwxaRLdi
 
-Extract it and move it into the Build folder
+Move it into the build folder
 
 Open 3D-Platformer.exe to open the game
 
